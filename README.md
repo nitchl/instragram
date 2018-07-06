@@ -5,7 +5,7 @@ instgram-clone
 
 # Library
 Parse.framework
-Bolts.framework
+Bolts.framework 
 
 # Parse Server
 Back4App
