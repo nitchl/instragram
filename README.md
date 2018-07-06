@@ -10,4 +10,3 @@ Bolts.framework
 # Parse Server
 Back4App
 https://www.back4app.com/
-# instragram
